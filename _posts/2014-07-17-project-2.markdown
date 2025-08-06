@@ -1,15 +1,9 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Type Subsidi
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+img: porto-2.webp
+thumbnail: porto-2.webp
+alt: porto-2
+description: Tersedia unit Subsidi dengan double dinding dan plafon gypsum pertama di Cikampek dan karawang  dengan harga terjangkau.
 ---
